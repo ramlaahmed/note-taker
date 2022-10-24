@@ -10,8 +10,10 @@
 
 ## Screen shots
 
+This is the image of the Webpage
+
+![codequiz](./images/screencapture-localhost-3000-2022-10-12-17_27_14.png)
+
 ## Links
 
 Github URL - https://github.com/ramlaahmed/note-taker
-
-Webpage URL - chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=10&url=http%3A%2F%2Flocalhost%3A3000%2F
