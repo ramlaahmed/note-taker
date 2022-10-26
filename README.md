@@ -2,11 +2,15 @@
 
 ## Overview
 
+In this project, i had to create an application called note taker that can be used to to write and save notes.
+
+The front end of thr application is already given, so i had to build a back end, connect the two, then deploy the finished application to Heroku.
+
 ## Technologies
 
 - HTML
 - CSS
-- JAVASCRIPT
+- JavaScript
 
 ## Screen shots
 
