@@ -9,11 +9,11 @@
     { 
         "id": 2,
         "title": "To Do List:",
-        "text": "Wash car\nMail letters"},
+        "text": "Wash car\nCode homework"},
     {
         "id": 3,
-        "title": "Grocery List",
-        "text": "Mushrooms\nCoffee\nEggs\nCheese\nApples\nPotatoes"}
+        "title": "Shopping List",
+        "text": "Water\nCoffee\nBread\nCheese\nApples\nCheesecake"}
           
    
 ]

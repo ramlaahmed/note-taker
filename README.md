@@ -14,7 +14,7 @@ The front end of thr application is already given, so i had to build a back end,
 
 ## Screen shots
 
-This is the image of the Webpage
+This is the image of the application
 
 ![codequiz](./images/screencapture-localhost-3000-2022-10-12-17_27_14.png)
 
@@ -22,4 +22,4 @@ This is the image of the Webpage
 
 Github URL - https://github.com/ramlaahmed/note-taker
 
-deployed link - https://evening-sierra-44458.herokuapp.com/
+link to application - https://evening-sierra-44458.herokuapp.com/
