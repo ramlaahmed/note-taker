@@ -21,3 +21,5 @@ This is the image of the Webpage
 ## Links
 
 Github URL - https://github.com/ramlaahmed/note-taker
+
+deployed link - https://evening-sierra-44458.herokuapp.com/
